@@ -1,13 +1,14 @@
 # Weather-Project
 
-## Overview
+**Overview**
 
 This project implements a simple ETL data pipeline that integrates weather data from an external API into a structured data environment for analysis and visualization.
 
 The pipeline connects:
 OpenWeather API → MS SQL Server → Power BI
 
-**Key Features
+**Key Features**
+
 - Building an end-to-end ETL pipeline from scratch
 - Extracting data from the OpenWeather API using Python
 - Transforming raw JSON data into a structured format
