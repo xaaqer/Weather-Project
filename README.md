@@ -17,7 +17,7 @@ OpenWeather API → MS SQL Server → Power BI
 - Creating data visualizations and dashboards
 - Preparing the pipeline for automated data refresh
 
-**Technologies Used
+**Technologies Used**
 
 Python (requests, data processing)
 MS SQL Server
@@ -25,7 +25,8 @@ Power BI
 OpenWeather API
 Git / GitHub
 
-**Data Pipeline Flow
+**Data Pipeline Flow**
+
 1. Extract
 - Fetch weather data from OpenWeather API
 2. Transform
@@ -38,7 +39,8 @@ Git / GitHub
 - Connect Power BI to SQL
 - Build dashboards and reports
 
-**Example Data
+**Example Data**
+
 The pipeline processes data such as:
 
 - City
@@ -49,7 +51,8 @@ The pipeline processes data such as:
 - Cloud coverage
 - Timestamp
 
-**Future Improvements
+**Future Improvements**
+
 - Automating pipeline execution (Task Scheduler / cron)
 - Adding more cities and historical data
 - Implementing data validation and error handling
