@@ -25,7 +25,7 @@ Power BI
 OpenWeather API
 Git / GitHub
 
-**Data Pipeline Flow**
+**Data Pipeline Flow:**
 
 1. Extract
 - Fetch weather data from OpenWeather API
